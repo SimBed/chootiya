@@ -28,6 +28,11 @@ div.fixed {
 	margin-bottom:0.5rem;
 }
 
+.alert-danger {
+  color: white;
+  background-color: red;
+}
+
 @media (min-width: 768px) {
 	.bd-placeholder-img-lg {
 	  font-size: 3.5rem;
